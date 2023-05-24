@@ -71,7 +71,7 @@ class SP2 extends React.Component{
                   <button className="cart">Thêm vào giỏ hàng</button>
                 </a>
                 
-                <a href="#" target="_blank">
+                <a href="Order" target="_blank">
                   <button className ="buy"> Mua ngay </button>
                 </a>
               </div>
